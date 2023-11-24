@@ -1,11 +1,8 @@
-<h3 align="center">
-  Welcome to my profile!
-  As a Front-end developer my goal is to contribute to meaningful projects and continue learning and growing as a developer, I have experience in creating exceptional web designs with a focus on:
+Welcome to my profile!
+ As a Front-end developer my goal is to contribute to meaningful projects and continue learning and growing as a developer, I have experience in creating exceptional web designs with a focus on:
 - Making pixel perfect designs
 - Full responsiveness across devices
 - Sleek, modern and minimalistic designs
-  
-</h3>
 
 ### Connect with Me:
 
