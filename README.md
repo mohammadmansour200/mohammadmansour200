@@ -1,5 +1,5 @@
 Welcome to my profile!
- As a Front-end developer my goal is to contribute to meaningful projects and continue learning and growing as a developer, I have experience in creating exceptional Webpages with a focus on:
+ As a Front-end developer my goal is to contribute to meaningful projects and continue learning and growing as a developer, I have experience in creating Webpages with a focus on:
 - Making pixel perfect designs
 - Full responsiveness across devices
 - Sleek, modern and minimalistic designs
