@@ -1,8 +1,5 @@
 Welcome to my profile!
- As a Front-end developer my goal is to contribute to meaningful projects and continue learning and growing as a developer, I have experience in creating Webpages with a focus on:
-- Making pixel perfect designs
-- Full responsiveness across devices
-- Sleek, modern and minimalistic designs
+ As a Fullstack developer my goal is to contribute to meaningful projects and continue learning and growing as a developer
 
 ### Connect with Me:
 
@@ -18,8 +15,10 @@ Welcome to my profile!
 
 ### Skills
 - Front-end Development
-- Responsive Web Design
-- UI/UX Design Principles
+- Back-end Development using Nodejs
+- Desktop app Development using Tauri
 - Version Control (Git)
 
 ### Thank you for visiting my profile! Have a great day!
+
+<div style="text-align: center;">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</div>
