@@ -1,5 +1,5 @@
 Welcome to my profile!
- As a Fullstack developer my goal is to contribute to meaningful projects and continue learning and growing as a developer
+ As a Software developer my goal is to contribute to meaningful projects and continue learning and growing as a developer
 
 ### Connect with Me:
 
@@ -8,7 +8,7 @@ Welcome to my profile!
 
 ### 🛠 &nbsp;Tech Stack
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![CSS, and other css libraries](https://skillicons.dev/icons?i=css,tailwind,sass,styledcomponents)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Programming languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Javascript frameworks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Tools](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![CSS, and other css libraries](https://skillicons.dev/icons?i=css,tailwind,sass,styledcomponents)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Programming languages](https://skillicons.dev/icons?i=js,ts,kotlin)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Frameworks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Tools](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
 
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmansour200&theme=tokyonight)
@@ -17,7 +17,7 @@ Welcome to my profile!
 - Front-end Development
 - Back-end Development using Nodejs
 - Desktop app Development using Tauri
-- Version Control (Git)
+- Mobile development using React native/Kotlin jetpack compose
 
 ### Thank you for visiting my profile! Have a great day!
 
